@@ -31,4 +31,4 @@ Importing * makes it harder to track where an object comes from, and can often h
 Lambda Functions
 ----------------
 
-Minimise their usage. If a single line of code takes more than a few seconds to understand, it's almost certainly too complicated. Lambdas have their place, but are easily abused.
+Minimise the use of lambdas. If a single line of code takes more than a few seconds to understand, it's almost certainly too complicated. Lambdas have their place, but are easily abused.
